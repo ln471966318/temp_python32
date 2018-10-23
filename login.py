@@ -6,3 +6,6 @@ def index():
 
 def index2():
 	return 'world'
+
+def index3():
+	print 'this is index3'
